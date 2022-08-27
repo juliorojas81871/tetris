@@ -1,6 +1,6 @@
-import './GameController.css'
-import { Action, actionForKey, actionIsDrop } from '../business/Input'
-import { playerController } from '../business/PlayerController'
+import '../styles/GameController.css';
+import { Action, actionForKey, actionIsDrop } from '../utilities/Input'
+import { playerController } from '../utilities/PlayerController'
 import { useInterval } from "../hooks/useInterval";
 import { useDropTime } from "../hooks/useDropTime";
 

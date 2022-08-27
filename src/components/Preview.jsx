@@ -1,7 +1,7 @@
 import React from 'react'
-import "./Preview.css";
-import {buildBoard } from '../business/Board'
-import {transferToBoard} from '../business/Tetrominoes'
+import '../styles/Preview.css';
+import {buildBoard } from '../utilities/Board'
+import {transferToBoard} from '../utilities/Tetrominoes'
 import BoardCell from './BoardCell';
 
 function Preview({ tetromino, index }) {

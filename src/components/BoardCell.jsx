@@ -1,5 +1,5 @@
 import React from 'react'
-import './BoardCell.css'
+import '../styles/BoardCell.css';
 
 function BoardCell({cell}) {
   return (

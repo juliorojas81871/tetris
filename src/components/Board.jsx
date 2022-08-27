@@ -1,6 +1,6 @@
 import React from 'react'
 import BoardCell from './BoardCell';
-import './Board.css'
+import '../styles/Board.css';
 
 function Board({board}) {
   //this is for css to make evenly sized cell dynamically depending on the size of the board

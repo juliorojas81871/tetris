@@ -1,4 +1,4 @@
-import './Tetris.css'
+import '../styles/Tetris.css';
 import Board from './Board'
 import {useBoard} from '../hooks/useBoard'
 import {useGameStats} from '../hooks/useGameStats'
