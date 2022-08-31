@@ -28,4 +28,4 @@ http://localhost:3000/
 ```
 
 # Example Pic:
-![Notes Example Pic](https://github.com/juliorojas81871/tetris/blob/main/pics/main.PNG)
+![Notes Example Pic](https://github.com/juliorojas81871/tetris/blob/main/pics/main.jpg)
