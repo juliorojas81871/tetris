@@ -2,7 +2,7 @@
 This code is a a basic tetris game
 If anyone want see this code, [please click at this link](https://juliorojas81871.github.io/tetris/).
 
-# Description:
+# Tools:
 JavaScript, React, HTML, CSS
 
 # Steps to get code to run:
@@ -16,7 +16,7 @@ git clone https://github.com/juliorojas81871/tetris
 
 4. Type: 
 ```
-npm install
+npm install --legacy-peer-deps
 ```
 5. Type: 
 ```
